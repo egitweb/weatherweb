@@ -1,4 +1,4 @@
-# weatherweb
+# WeatherWebsite
 
 <h2>Getting Started</h2>
 <p>This project is a Weather app using the https://openweathermap.org/ API. </p>
